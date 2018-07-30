@@ -1,1 +1,1 @@
-# Intention-Mining-
+# Intention-Mining-Intention Mining in Social Networking. It Mines Emotions and polarity for the given keyword . For the keyword it searchers the twitter for the comments and analyzes the results for various events such as Election results, Sports prediction Movie ratings, Breaking news events such as demonetisation and many more. Bayes , Maximum Entropy and Hidden Markov models are used to analyse the results. It requires R shiny package installed.
